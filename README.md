@@ -2,9 +2,13 @@
 This application is a simple GUI tool built with Python that allows users to shorten URLs using the TinyURL service. It's designed to be user-friendly, requiring only the input of the original URL to produce a shortened version.
 
 **Features**
+
 **Simple Interface**: A clean GUI for easy interaction.
+
 **Instant URL Shortening**: Utilizes the TinyURL service to shorten URLs quickly.
+
 **Copy Functionality**: Allows for easy copying of the shortened URL.
+
 
 **Requirements**
 To run this application, you will need:
