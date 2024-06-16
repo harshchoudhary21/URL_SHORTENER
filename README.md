@@ -12,13 +12,18 @@ This application is a simple GUI tool built with Python that allows users to sho
 
 
 **Requirements**
+
 To run this application, you will need:
+
  1.Python 3.x installed on your system.
+ 
  2.tkinter library for the GUI (comes pre-installed with Python).
+ 
  3.pyshorteners library for accessing the TinyURL API.
  
  
 **Installation**
+
 ->Ensure Python 3.x is installed on your system.
 
 ->Install the pyshorteners library using pip: **pip install pyshorteners**
@@ -28,6 +33,7 @@ To run this application, you will need:
 
 
 **Usage**
+
 ->Navigate to the directory containing the application.
 
 ->Run the application with Python: **  python Url_Shortener.py**
